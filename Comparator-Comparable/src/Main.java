@@ -8,10 +8,10 @@
  * có thể dùng các trường thuộc tính của object để so sánh</p>
  *
  * <h3>Khi nào dùng:</h3>
- *  <p>- Dùng Comparable khi muốn so sánh đơn giản bằng 1 method mặc định compareTo() trong class,
- *      ví dụ so sánh thứ tự học sinh theo tên hoặc id,...</p>
- *  <p>- Dùng Comparator khi muốn so sánh nhiều cách, hay so sánh mở rộng
- *      Ví dụ so sánh 2 object theo tên ở danh sách lớp, còn trên danh sách thi thì đánh theo id </p>
+ *  <p>- Dùng Comparable khi muốn so sánh đơn giản bằng 1 method mặc định compareTo() trong class.
+ *     Ví dụ so sánh thứ tự học sinh theo tên hoặc id,...</p>
+ *  <p>- Dùng Comparator khi muốn so sánh nhiều cách, hay so sánh mở rộng.
+ *     Ví dụ so sánh 2 object theo tên ở danh sách lớp, còn trên danh sách thi thì đánh theo id </p>
  */
 public class Main {
     public static void main(String[] args) {
