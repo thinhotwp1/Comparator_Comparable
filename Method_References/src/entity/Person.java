@@ -11,6 +11,12 @@ public class Person {
     public Person() {
     }
 
+    public Person(int i) {
+    }
+
+    public Person(String s, String s1) {
+    }
+
 
     public String getName() {
         return name;
